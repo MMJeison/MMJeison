@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🏫 I'm a Engineering Student at the University of Antioquia
+
 <!--
 **MMJeison/MMJeison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
